@@ -1,0 +1,4 @@
+when use the command "make" to build the shared library, to make the shared library successfully builds
+please input a line into the shell "export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:.", and then use the command "make"
+when we place this line into the makefile, there is always some errors when we use the libmem.so. 
+that's it, thank you!
